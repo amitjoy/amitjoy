@@ -8,7 +8,7 @@
 - 🔮 Experienced in diverse IoT Enterprise Projects
 - 🔉 EclipseCon Conference Speaker
 - 🌏 Currently implementing [OSGi Messaging RFC 246](https://github.com/osgi/design/blob/main/rfcs/rfc0246/rfc-0246-Messaging.pdf) for MQTT 5.0 - [Project Repository](https://github.com/amitjoy/osgi-messaging)
-- 🌱 Currently getting my hands dirty with [Pi Top 4](https://www.pi-top.com/products/pi-top-4) and [Google Vision AIY Kit](https://aiyprojects.withgoogle.com/vision)
+- 🌱 Currently getting my hands dirty with [Pi-Top 4](https://www.pi-top.com/products/pi-top-4) and [Google Vision AIY Kit](https://aiyprojects.withgoogle.com/vision)
 - 💬 Ask me about Java, OSGi and IoT
 - ⚡ Hobby: Travel Vlogging (📹 YouTube Channel: [Life Beyond Cage](https://www.youtube.com/lifebeyondcage))
 - 📫 Reach me at admin@amitinside.com
