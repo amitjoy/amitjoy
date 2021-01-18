@@ -10,5 +10,5 @@
 - 🌱 Currently getting my hands dirty with [Pi-Top 4](https://www.pi-top.com/products/pi-top-4) and [Google Vision AIY Kit](https://aiyprojects.withgoogle.com/vision)
 - 💬 Ask me about Java, OSGi and IoT
 - ⚡ <b>Hobby</b>: Travel Vlogging (📹 YouTube Channel: [Life Beyond Cage](https://www.youtube.com/lifebeyondcage))
-- 💂‍♀️ <b>Fun Fact</b>: I am quite Sesquipedalian
+- 💂‍♀️ <b>Fun Fact</b>: I am quite <i>Sesquipedalian</i>
 - 📫 Reach me at admin@amitinside.com
