@@ -2,7 +2,7 @@
 
 - 🏡 [Magenta SmartHome](https://www.smarthome.de) Runtime Developer
 - 🥷🏻 Java/OSGi Evangelist
-- 👨🏻‍💻 7+ Years of OSGi Experience in IoT Solutions (Smart Home and Industry 4.0)
+- 👨🏻‍💻 7+ Years of OSGi Experience in IoT Solutions ⇢ 🏠 Smart Home and 🏭 Industry 4.0
 - 🏭 [Kura Wires](https://eclipse.github.io/kura/wires/kura-wires-intro.html) Developer ⇢ 📘 [Publication](https://www.amazon.de/Kura-Wires-Development-Component-managing/dp/6202205423)
 - 🌓 [Eclipse Kura](https://github.com/eclipse/kura) Committer
 - 💻 Open Source Projects ([Apache Felix](https://github.com/apache/felix-dev), [Bndtools](https://github.com/bndtools/bnd), [Eclipse SmartHome](https://github.com/eclipse-archived/smarthome) etc.) Contributor
