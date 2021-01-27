@@ -1,4 +1,15 @@
-### Wanna know me? 👋
+![logo](https://user-images.githubusercontent.com/13380182/105937869-b2506800-6056-11eb-97de-3f6a7743ea2a.png)
+
+<p align='center'>
+<a href="https://www.linkedin.com/in/amitjoy/"><img height="30" src="https://user-images.githubusercontent.com/13380182/105938379-c34da900-6057-11eb-833e-178079a169fc.png"></a>
+<a href="https://twitter.com/am1t_m0ndal"><img height="30" src="https://user-images.githubusercontent.com/13380182/105938680-0576ea80-6058-11eb-9b3e-bc3b93c0d305.png"></a>
+<a href="https://www.facebook.com/amitjoy"><img height="30" src="https://user-images.githubusercontent.com/13380182/105938737-1de70500-6058-11eb-9681-5f9cdecf0bb8.png"></a>
+<a href="https://www.youtube.com/lifebeyondcage"><img height="30" src="https://user-images.githubusercontent.com/13380182/105938769-2ccdb780-6058-11eb-9582-aecc5f10eeee.png"></a>
+<a href="mailto:admin@amitinside.com"><img height="30" src="https://user-images.githubusercontent.com/13380182/105938938-80400580-6058-11eb-90ff-5f5e761b8ddd.png"></a>
+</p>
+
+
+## Hello, Folks!! Wanna know me? 👋
 
 - 🏡 [Magenta SmartHome](https://www.smarthome.de) Runtime Developer
 - 🥷🏻 Java/OSGi Evangelist
