@@ -8,7 +8,6 @@
 <a href="mailto:admin@amitinside.com"><img height="30" src="https://user-images.githubusercontent.com/13380182/105938938-80400580-6058-11eb-90ff-5f5e761b8ddd.png"></a>
 </p>
 
-
 ## Hello, Folks!! Wanna know me? 👋
 
 - 🏡 [Magenta SmartHome](https://www.smarthome.de) Runtime Developer
@@ -22,5 +21,4 @@
 - 🤖 Currently getting my hands dirty with [Pi-Top 4](https://www.pi-top.com/products/pi-top-4) and [Google Vision AIY Kit](https://aiyprojects.withgoogle.com/vision)
 - 💬 Ask me about <b>Java</b>, <b>OSGi</b> and <b>IoT</b>
 - ⛰ <b>Hobby</b>: Travel Vlogging 📺 YouTube Channel: [Life Beyond Cage](https://www.youtube.com/lifebeyondcage)
-- 💂‍♀️ <b>Fun Fact</b>: I am quite <i>Sesquipedalian</i>
-- 📮 Reach me at admin@amitinside.com
+- 💂‍♀️ <b>Fun Fact</b>: I am quite Sesquipedalian
