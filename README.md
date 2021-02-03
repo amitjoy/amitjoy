@@ -8,7 +8,7 @@
 <a href="mailto:admin@amitinside.com"><img height="30" src="https://user-images.githubusercontent.com/13380182/105938938-80400580-6058-11eb-90ff-5f5e761b8ddd.png"></a>
 </p>
 
-## Hello, Folks!! Wanna know me? 👋
+### 🌈 Hey Profile Visitor 👀 <img height="30" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" /> Wanna know me?
 
 - 🏡 [Magenta SmartHome](https://www.smarthome.de) Runtime Developer
 - 🥷🏻 Java/OSGi Evangelist
