@@ -22,5 +22,5 @@
 - 🤖 <b>Embedded Computer Vision</b> using <b>Deep Learning</b> Hobbyist
 - 🤖 Currently experimenting with [fastai](https://www.fast.ai) for <b>Embedded Computer Vision</b>
 - 💬 Ask me about <b>Java</b>, <b>OSGi</b> and <b>IoT</b>
-- ⛰ <b>Outdoor Hobby</b>: Travel Vlogging 📺 YouTube Channel: [Life Beyond Cage](https://www.youtube.com/lifebeyondcage)
+- ⛰ <b>Outdoor Hobby</b>: Travel Vlogging 📺 <b>YouTube</b> Channel: [Life Beyond Cage](https://www.youtube.com/lifebeyondcage)
 - 💂‍♀️ <b>Fun Fact</b>: I am quite a football fanatic
