@@ -1,11 +1,21 @@
 ![logo](https://user-images.githubusercontent.com/13380182/105937869-b2506800-6056-11eb-97de-3f6a7743ea2a.png)
 
 <p align='center'>
-<a href="https://www.linkedin.com/in/amitjoy/"><img height="30" src="https://user-images.githubusercontent.com/13380182/105938379-c34da900-6057-11eb-833e-178079a169fc.png"></a>
-<a href="https://twitter.com/am1t_m0ndal"><img height="30" src="https://user-images.githubusercontent.com/13380182/105938680-0576ea80-6058-11eb-9b3e-bc3b93c0d305.png"></a>
-<a href="https://www.facebook.com/amitjoy"><img height="30" src="https://user-images.githubusercontent.com/13380182/105938737-1de70500-6058-11eb-9681-5f9cdecf0bb8.png"></a>
-<a href="https://www.youtube.com/lifebeyondcage"><img height="30" src="https://user-images.githubusercontent.com/13380182/105938769-2ccdb780-6058-11eb-9582-aecc5f10eeee.png"></a>
-<a href="mailto:admin@amitinside.com"><img height="30" src="https://user-images.githubusercontent.com/13380182/105938938-80400580-6058-11eb-90ff-5f5e761b8ddd.png"></a>
+<a href="https://www.linkedin.com/in/amitjoy/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://twitter.com/am1t_m0ndal" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+<a href="https://www.facebook.com/amitjoy" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+<a href="https://www.youtube.com/lifebeyondcage" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+<a href="mailto:admin@amitinside.com" target="_blank">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+</a>
 </p>
 
 ### 🌈 Hey Profile Visitor 👀 <img height="30" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" /> Wanna know me?
