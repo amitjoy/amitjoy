@@ -33,4 +33,4 @@
 - 🤖 Currently experimenting with [fastai](https://www.fast.ai) for <b>Embedded Computer Vision</b>
 - 💬 Ask me about <b>Java</b>, <b>OSGi</b> and <b>IoT</b>
 - ⛰ <b>Outdoor Hobby</b>: Travel Vlogging 📺 <b>YouTube</b> Channel: [Life Beyond Cage](https://www.youtube.com/lifebeyondcage)
-- 💂‍♀️ <b>Fun Fact</b>: I am quite a football fanatic
+- 💂‍♀️ <b>Fun Fact</b>: I am quite a football ⚽️ aficionado
