@@ -18,7 +18,7 @@
 </a>
 </p>
 
-### 🌈 Hey Profile Visitor 👀 <img height="30" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" /> Wanna know me?
+### 🌈 Hey Profile Visitor 👀 👋🏻 Wanna know me?
 
 - 🏡 [MagentaZuhause](https://www.smarthome.de) Runtime Developer
 - 🥷🏻 <b>Java</b>/<b>OSGi</b> Evangelist
