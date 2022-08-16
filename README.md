@@ -20,7 +20,7 @@
 
 ### 🌈 Hey Profile Visitor 👀 👋🏻 Wanna know me?
 
-- 🏡 [MagentaZuhause](https://www.smarthome.de) Runtime Developer
+- 🏡 [MagentaZuhause](https://www.smarthome.de) Runtime Developer (formerly known as Magenta SmartHome)
 - 🥷🏻 <b>Java</b>/<b>OSGi</b> Evangelist
 - 👨🏻‍💻 More than 8 Years of <b>OSGi</b> Experience in <b>IoT</b> Solutions ⇢ 🏠 <b>Smart Home</b> 🏭 <b>Industry 4.0</b>
 - 🏭 [Kura Wires](https://eclipse.github.io/kura/wires/kura-wires-intro.html) Developer 📘 [Publication](https://www.amazon.de/Kura-Wires-Development-Component-managing/dp/6202205423)
