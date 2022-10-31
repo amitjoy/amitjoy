@@ -26,7 +26,7 @@
 - 🏭 [Kura Wires](https://eclipse.github.io/kura/wires/kura-wires-intro.html) Developer 📘 [Publication](https://www.amazon.de/Kura-Wires-Development-Component-managing/dp/6202205423)
 - 🌓 [Eclipse Kura](https://github.com/eclipse/kura) Committer
 - 💻 <b>Open Source</b> Projects Contributor ([Apache Felix](https://github.com/apache/felix-dev), [Bndtools](https://github.com/bndtools/bnd), [Eclipse SmartHome](https://github.com/eclipse-archived/smarthome), [jUPnP](https://github.com/jupnp/jupnp), [s7Connector](https://github.com/s7connector/s7connector) etc.)
-- 🔉 <b>EclipseCon</b> Conference Speaker 🔘 [Kura Wires Talk](https://www.youtube.com/watch?v=Td5923B26-Q) 📆 2016 🔘 [PDE to Bndtools](https://www.youtube.com/watch?v=Yi0A-6A5GRk) 📆 2018
+- 🔉 <b>EclipseCon</b> Conference Speaker
 - ✍🏼 DZone's <b>Most Valuable Blogger</b> (MVB)
 - 🌏 Actively developing [OSGi.fx](https://github.com/amitjoy/osgifx-console) - an easy-to-use RCP application to manage remote OSGi runtimes
 - 🤖 <b>Embedded Computer Vision</b> using <b>Deep Learning</b> Hobbyist
