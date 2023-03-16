@@ -20,9 +20,9 @@
 
 ### 🌈 Hey Profile Visitor 👀 👋🏻 Wanna know me?
 
-- 🏡 [MagentaZuhause](https://www.smarthome.de) Runtime Developer (formerly known as **Magenta SmartHome**)
+- 🏡 [MagentaZuhause](https://www.smarthome.de) SmartHome Runtime Senior Developer (formerly known as **Magenta SmartHome**)
 - 🥷🏻 <b>Java</b>/<b>OSGi</b> Evangelist
-- 👨🏻‍💻 Around 8 Years of <b>OSGi</b> Experience in <b>IoT</b> Solutions ⇢ 🏠 <b>Smart Home</b> 🏭 <b>Industry 4.0</b>
+- 👨🏻‍💻 8+ Years of <b>OSGi</b> Experience in <b>IoT</b> Solutions ⇢ 🏠 <b>Smart Home</b> 🏭 <b>Industry 4.0</b>
 - 🏭 [Kura Wires](https://eclipse.github.io/kura/wires/kura-wires-intro.html) Developer 📘 [Publication](https://www.amazon.de/Kura-Wires-Development-Component-managing/dp/6202205423)
 - 🌓 [Eclipse Kura](https://github.com/eclipse/kura) and [Bndtools](https://github.com/bndtools/bnd) Committer
 - 💻 <b>Open Source</b> Projects Contributor ([Apache Felix](https://github.com/apache/felix-dev), [Eclipse SmartHome](https://github.com/eclipse-archived/smarthome), [jUPnP](https://github.com/jupnp/jupnp), [s7Connector](https://github.com/s7connector/s7connector) etc.)
