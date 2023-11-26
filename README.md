@@ -1,4 +1,4 @@
-![logo](https://user-images.githubusercontent.com/13380182/105937869-b2506800-6056-11eb-97de-3f6a7743ea2a.png)
+![logo](banner.png)
 
 <p align='center'>
 <a href="https://www.linkedin.com/in/amitjoy/" target="_blank">
