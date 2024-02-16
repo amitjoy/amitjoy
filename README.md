@@ -20,13 +20,13 @@
 
 ### 🌈 Hey there 👋🏻 Profile Visitor 👀 Ready to unravel the mysteries of who I am?
 
-- 🏡 [MagentaZuhause](https://www.smarthome.de) SmartHome Senior Developer (formerly known as **Magenta SmartHome**)
+- 🏡 [MagentaZuhause](https://www.smarthome.de) Senior Developer (formerly known as **Magenta SmartHome / QIVICON**)
 - 🥷🏻 <b>Java</b>/<b>OSGi</b> Evangelist
 - 🛟 Advocate for <b>Clean Architecture</b> and <b>Green Software Engineering</b> Practices
 - 👨🏻‍💻 9+ Years of <b>OSGi</b> Experience in <b>IoT</b> Solutions ⇢ 🏠 <b>Smart Home</b> 🏭 <b>Industry 4.0</b>
 - 🏭 [Kura Wires](https://eclipse.github.io/kura/wires/kura-wires-intro.html) Developer 📘 [Publication](https://www.amazon.de/Kura-Wires-Development-Component-managing/dp/6202205423)
 - 🌓 [Eclipse Kura](https://github.com/eclipse/kura) and [Bndtools](https://github.com/bndtools/bnd) Committer
-- 💻 <b>Open Source</b> Projects Contributor ([Apache Felix](https://github.com/apache/felix-dev), [Eclipse SmartHome](https://github.com/eclipse-archived/smarthome), [jUPnP](https://github.com/jupnp/jupnp), [s7Connector](https://github.com/s7connector/s7connector) etc.)
+- 💻 Passionate <b>Open Source</b> Projects Contributor
 - 🔉 <b>EclipseCon</b> Conference Speaker
 - ✍🏼 DZone's <b>Most Valuable Blogger</b> (MVB)
 - 🖥️ Actively developing [OSGi.fx](https://github.com/amitjoy/osgifx-console) - a user-friendly RCP application for managing remote OSGi runtimes
