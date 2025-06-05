@@ -1,4 +1,4 @@
-![logo](banner.png)
+<img src="banner.png" />
 
 <p align='center'>
 <a href="https://amitinside.com" target="_blank">
