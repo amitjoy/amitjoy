@@ -21,7 +21,7 @@
 </a>
 </p>
 
-### 🌈 Hey there 👋🏻 Profile Visitor 👀 Ready to unravel the mysteries of who I am?
+### 🌈 Hey there 👋🏻 Discover who I am and what makes me, me!
 
 - 🏡 [MagentaZuhause](https://www.smarthome.de) Senior Engineer (formerly known as **Magenta SmartHome / QIVICON**)
 - 🥷🏻 <b>Java</b>/<b>OSGi</b> Evangelist
