@@ -1,11 +1,14 @@
 ![logo](banner.png)
 
 <p align='center'>
+<a href="https://amitinside.com" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-black?style=for-the-badge&logo=rss&logoColor=white" />
+</a>
 <a href="https://www.linkedin.com/in/amitjoy/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=logmein&logoColor=white" />
 </a>
 <a href="https://twitter.com/am1t_m0ndal" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 <a href="https://www.facebook.com/amitjoy" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
@@ -14,13 +17,13 @@
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 <a href="mailto:admin@amitinside.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-F06B66?style=for-the-badge&logo=mailgun&logoColor=white" />
 </a>
 </p>
 
 ### 🌈 Hey there 👋🏻 Profile Visitor 👀 Ready to unravel the mysteries of who I am?
 
-- 🏡 [MagentaZuhause](https://www.smarthome.de) Senior Developer (formerly known as **Magenta SmartHome / QIVICON**)
+- 🏡 [MagentaZuhause](https://www.smarthome.de) Senior Engineer (formerly known as **Magenta SmartHome / QIVICON**)
 - 🥷🏻 <b>Java</b>/<b>OSGi</b> Evangelist
 - 🛟 Advocate for <b>Clean Architecture</b> and <b>Green Software Engineering</b> Practices
 - 👨🏻‍💻 10+ Years of <b>OSGi</b> Experience in <b>IoT</b> Solutions ⇢ 🏠 <b>Smart Home</b> 🏭 <b>Industry 4.0</b>
