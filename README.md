@@ -26,7 +26,7 @@
 - 🏡 [MagentaZuhause](https://www.smarthome.de) Senior Engineer (formerly known as **Magenta SmartHome / QIVICON**)
 - 🥷🏻 <b>Java</b>/<b>OSGi</b> Evangelist
 - 🛟 Advocate for <b>Clean Architecture</b> and <b>Green Software Engineering</b> Practices
-- 👨🏻‍💻 10+ Years of <b>OSGi</b> Experience in <b>IoT</b> Solutions ⇢ 🏠 <b>Smart Home</b> 🏭 <b>Industry 4.0</b>
+- 👨🏻‍💻 12+ Years of <b>OSGi</b> Experience in <b>IoT</b> Solutions ⇢ 🏠 <b>Smart Home</b> 🏭 <b>Industry 4.0</b>
 - 🏭 [Kura Wires](https://eclipse.github.io/kura/wires/kura-wires-intro.html) Developer 📘 [Publication](https://www.amazon.de/Kura-Wires-Development-Component-managing/dp/6202205423)
 - 🌓 [Eclipse Kura](https://github.com/eclipse/kura) and [Bndtools](https://github.com/bndtools/bnd) Committer
 - 💻 Passionate <b>Open Source</b> Projects Contributor
