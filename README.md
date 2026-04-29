@@ -31,13 +31,13 @@ I'm a passionate Software Engineer and Open Source Contributor specializing in I
 - 🖥️ Actively developing [OSGi Messaging](https://github.com/amitjoy/osgi-messaging) — Reference implementation of the OSGi Messaging Specification
 
 **💡 Core Expertise & Passions**
-- 🥷🏻 **Java / OSGi Evangelist:** 12+ years of OSGi experience in building scalable **IoT** Solutions (🏠 Smart Home | 🏭 Industry 4.0)
+- 🥷🏻 **Java / OSGi Evangelist:** 13+ years of OSGi experience in building scalable **IoT** Solutions (🏠 Smart Home | 🏭 Industry 4.0)
 - 🤖 **AI Enthusiast:** Deeply passionate about Artificial Intelligence and its integration into modern software ecosystems
 - 🛟 **Engineering Advocate:** Championing **Clean Architecture** and **Green Software Engineering** practices
 
 **🌍 Open Source & Community**
 - 🌓 **Committer:** [Eclipse Kura](https://github.com/eclipse/kura) and [Bndtools](https://github.com/bndtools/bnd)
-- 🏭 **Creator & Author:** [Kura Wires](https://eclipse.github.io/kura/wires/kura-wires-intro.html) Developer | 📘 Read my [Publication](https://www.amazon.de/Kura-Wires-Development-Component-managing/dp/6202205423)
+- 🏭 **Creator & Author:** [Kura Wires](https://eclipse.github.io/kura/wires/kura-wires-intro.html) Developer | 📘 Published as a book on [Amazon](https://www.amazon.de/Kura-Wires-Development-Component-managing/dp/6202205423)
 - 🔉 **Speaker:** EclipseCon Conference Speaker
 - ✍🏼 **Author:** DZone's Most Valuable Blogger (MVB)
 
