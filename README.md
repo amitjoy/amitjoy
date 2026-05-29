@@ -26,7 +26,7 @@
 I'm a Senior Software Engineer specializing in systems architecture, scalable IoT solutions, Agentic AI frameworks, and Green Software Engineering.
 
 **🔭 Current Focus & Roles**
-- 🏡 **Senior Software Engineer & Architect** at [MagentaZuhause](https://www.smarthome.de) (formerly Magenta SmartHome / QIVICON), driving system design, intent-based routing, and technical strategy.
+- 🏡 **Senior Software Engineer** at [MagentaZuhause](https://www.smarthome.de) (formerly Magenta SmartHome / QIVICON), driving system design, intent-based routing, and technical strategy.
 - 🧠 **Architecting Agentic AI Solutions:** Designing sophisticated agentic workflows, Hierarchical Task Networks, and A2A communication using LangGraph, n8n, and OpenClaw/NanoClaw/IronClaw paradigms.
 - 🌱 **Advancing Green Tech:** Developing infrastructure for Green-AI auditing.
 - 🖥️ Actively developing [OSGi.fx](https://github.com/amitjoy/osgifx-console) — an extensible tooling framework and user-friendly RCP console for managing remote OSGi environments.
