@@ -23,7 +23,7 @@
 
 ### Hi there! 👋 
 
-I'm a Senior Software Engineer and Architect specializing in scalable distributed systems, Agentic AI frameworks, and Green Software Engineering. 
+I'm a Senior Software Engineer specializing in systems architecture, scalable IoT solutions, Agentic AI frameworks, and Green Software Engineering.
 
 **🔭 Current Focus & Roles**
 - 🏡 **Senior Software Engineer & Architect** at [MagentaZuhause](https://www.smarthome.de) (formerly Magenta SmartHome / QIVICON), driving system design, intent-based routing, and technical strategy.
