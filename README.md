@@ -27,7 +27,7 @@ I'm a passionate Software Engineer and Open Source Contributor specializing in I
 
 **🔭 Current Focus & Roles**
 - 🏡 **Senior Engineer** at [MagentaZuhause](https://www.smarthome.de) (formerly known as Magenta SmartHome / QIVICON)
-- 🖥️ Actively developing [OSGi.fx](https://github.com/amitjoy/osgifx-console) — a user-friendly RCP application for managing remote OSGi runtimes
+- 🖥️ Actively developing [OSGi.fx](https://github.com/amitjoy/osgifx-console) — an extensible framework and user-friendly RCP application for managing remote OSGi runtimes
 - 🖥️ Actively developing [OSGi Messaging](https://github.com/amitjoy/osgi-messaging) — Reference implementation of the OSGi Messaging Specification
 
 **💡 Core Expertise & Passions**
